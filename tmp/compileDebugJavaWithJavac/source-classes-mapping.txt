@@ -1,0 +1,6 @@
+pk/edu/itu/lecture5fall2021/BuildConfig.java
+ pk.edu.itu.lecture5fall2021.BuildConfig
+pk/edu/itu/lecture5fall2021/MainActivity.java
+ pk.edu.itu.lecture5fall2021.MainActivity
+ pk.edu.itu.lecture5fall2021.MainActivity$1
+ pk.edu.itu.lecture5fall2021.MainActivity$2
